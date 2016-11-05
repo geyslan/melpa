@@ -1,3 +1,2 @@
-(zotxt :fetcher hg
-       :url "https://bitbucket.org/egh/zotxt-emacs"
-       :files ("elisp/*.el"))
+(zotxt :fetcher gitlab
+       :repo "egh/zotxt-emacs")
